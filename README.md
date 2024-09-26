@@ -25,7 +25,7 @@ Key features include variables like gender, age, smoking status, anxiety, fatigu
 -	Several visualizations, including count plots and pie charts, illustrated distributions of lung cancer cases across age, gender, and other factors.
 -	Example: 86.2% of patients in this dataset had lung cancer, while 13.8% were lung cancer free.
   ![](https://github.com/Pritex32/lung-cancer-prediction/blob/main/cancer%20patient.png)
- 	![]()
+ 	![](https://github.com/Pritex32/lung-cancer-prediction/blob/main/cancer%20patient%202.png)
   
 ## Conclusion and Benefits:
 - Logistic Regression was chosen as the final model, considered to fit well for lung cancer detection.
