@@ -10,7 +10,7 @@ Key features include variables like gender, age, smoking status, anxiety, fatigu
 ## Data Processing:
 - The dataset was normalized using MinMaxScaler, and it was split into training and testing sets with an 80-20 split.
 
-## Model Building:[]()
+## Model Building:[Download here](lung-cancer-prediction.pdf)
 - Three models were built:
 - Random Forest (Accuracy: 99.5% on training set, 85.7% on test set)
 -	Naive Bayes (Accuracy: 86.8% on training set, 83.9% on test set)
